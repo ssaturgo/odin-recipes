@@ -1,0 +1,53 @@
+html, body {
+    margin: 0;
+    display: flex;
+    background-color: #E4DCCF;
+    text-align: center;
+
+    font-family: 'Roboto Slab', serif;
+}
+
+#main-div {
+    height: 100%;
+    width: 70%;
+    background-color: #F9F5EB;
+    margin: 0 auto;
+}
+
+.icon{
+    height: 1rem;
+}
+
+p {
+    text-align: justify;
+    padding: 2rem;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+h1 {
+    font-size: 4rem;
+}
+h1, h2 {font-family: 'Grenze Gotisch', cursive;}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+li {
+    padding: 0.5rem;
+}
+
+img {
+    width: 100%;
+}
+
+#credit {
+    text-align: center;
+    font-size: 12px;
+}
