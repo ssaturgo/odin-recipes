@@ -7,5 +7,5 @@ with this, I am able to create ordered and unordered list for my recipes.
 
 # Tech Used 💻
 **Built with**
-HTML
-CSS
+- HTML
+- CSS
