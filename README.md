@@ -1,5 +1,5 @@
 # Recipe Page
-Create a recipe page to showcase basic HTML & CSS.
+a recipe webpage to showcase basic HTML & CSS.
 
 [Live Demo](https://ssaturgo.github.io/odin-recipes/index.html)
 
